@@ -32,10 +32,13 @@
  
    A partir de <b>2021</b> comecei a avançar os estudos aprendendo sobre ReactJS, NodeJS, Banco de Dados
     <div style="display: inline-block">
-      <img align="center" alt="HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-      <img align="center" alt="CSS" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-      <img align="center" alt="JavaScript" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+      <img align="center" alt="ReactJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+      <img align="center" alt="NodeJS" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+      <img align="center" alt="MySQL" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   </div>
+ 
+ Hoje, sou aluno da Rocketseat <img align="center" alt="Ignite" height="60" width="60" src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/a11afefe824866f24dd3f9e1cc6e6e9530376ad1/%40assets/img/logo.svg"/> (adquiri o Ignite dia 15/09/2021)
+ E atualmente sigo na Trilha de <img align="center" alt="ReactJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
   
   #
    <div> 
@@ -44,3 +47,5 @@
      <a href = "mailto:cauepani06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/cauê-pani-10b055187" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    </div>
+ 
+
