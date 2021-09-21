@@ -38,7 +38,9 @@
   </div>
  
  Hoje, sou aluno da Rocketseat <img align="center" alt="Ignite" height="60" width="60" src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/a11afefe824866f24dd3f9e1cc6e6e9530376ad1/%40assets/img/logo.svg"/> (adquiri o Ignite dia 15/09/2021)
- E atualmente sigo na Trilha de <img align="center" alt="ReactJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+ <br />
+  <br />
+ E atualmente sigo na Trilha de<img align="center" alt="ReactJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
   
   #
    <div> 
