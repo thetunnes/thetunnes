@@ -1,5 +1,5 @@
 ## Olá seres humanos! Sejam Bem-vindos ao meu perfil do GitHub.
-### Eu me chamo Cauê, Tunnes para os mais intímos :wink:
+### Eu me chamo Cauê, mas podem me chamar de Tunnes :wink:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tunnesvlr" alt="tunnesvlr" /> </p>
 
  <div>
