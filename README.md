@@ -4,8 +4,8 @@
 
  <div>
   <a href="https://github.com/tunnesvlr">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tunnesvlr&show_icons=true&border_color=61D9FA&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunnesvlr&border_color=61D9FA&layout=compact&langs_count=7&theme=react"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thetunnes&show_icons=true&border_color=61D9FA&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetunnes&border_color=61D9FA&layout=compact&langs_count=7&theme=react"/>
 </div>
   
   ## :book: Trajetória na programação
