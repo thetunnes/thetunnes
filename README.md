@@ -37,11 +37,11 @@
       <img align="center" alt="MySQL" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   </div>
  
- Hoje, sou aluno da Rocketseat <img align="center" alt="Ignite" height="60" width="60" src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/a11afefe824866f24dd3f9e1cc6e6e9530376ad1/%40assets/img/logo.svg"/> (adquiri o Ignite dia 15/09/2021)
+ Sou aluno da Rocketseat <img align="center" alt="Ignite" height="60" width="60" src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/a11afefe824866f24dd3f9e1cc6e6e9530376ad1/%40assets/img/logo.svg"/> (adquiri o Ignite dia 15/09/2021)
  <br />
   <br />
  E atualmente sigo na Trilha de<img align="center" alt="ReactJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  
+  Também sou Desenvolvedor Front-End Júnior na Coinsure
   #
    <div> 
      <a href="https://instagram.com/thetunnes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
