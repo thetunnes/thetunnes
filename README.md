@@ -41,6 +41,7 @@
  <br />
   <br />
  E atualmente sigo na Trilha de<img align="center" alt="ReactJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+ <br />
   Também sou Desenvolvedor Front-End Júnior na Coinsure
   #
    <div> 
