@@ -42,7 +42,10 @@
   <br />
  E atualmente sigo na Trilha de<img align="center" alt="ReactJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
  <br />
-  Também sou Desenvolvedor Front-End Júnior na Coinsure
+  
+  ### Experiências Profissional
+  
+  Desenvolvedor Front-end na Coinsure (out/2021 - set/2022)
   #
    <div> 
      <a href="https://instagram.com/thetunnes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
