@@ -37,10 +37,13 @@
       <img align="center" alt="MySQL" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   </div>
  
- Sou aluno da Rocketseat <img align="center" alt="Ignite" height="60" width="60" src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/a11afefe824866f24dd3f9e1cc6e6e9530376ad1/%40assets/img/logo.svg"/> (adquiri o Ignite dia 15/09/2021)
+ Em 2021 embarquei no foguete da Rocketseat onde estudo até hoje. <img align="center" alt="Ignite" height="60" width="60" src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/a11afefe824866f24dd3f9e1cc6e6e9530376ad1/%40assets/img/logo.svg"/> (adquiri o Ignite dia 15/09/2021)
  <br />
   <br />
- E atualmente sigo na Trilha de<img align="center" alt="ReactJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+ Concluí e emiti o certificado da Trilha de<img align="center" alt="ReactJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+ <br />
+ 
+ Hoje sigo na trilha de <img align="center" alt="ReactJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
  <br />
  
  ### Skills and Proficiety
