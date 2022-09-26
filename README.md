@@ -42,6 +42,18 @@
   <br />
  E atualmente sigo na Trilha de<img align="center" alt="ReactJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
  <br />
+ 
+ ### Skills and Proficiety
+
+JavaScript | TypeScript <br />
+ReactJS | (Custom) Hooks | State | Functional Component <br />
+Router Dom | React Query | Hook Form | Toast | Chakra UI | <br />
+Material UI | Date-FNS | Leaflet | Underscore <br />
+NodeJS | AWS | React Native (em aprendizagem) <br />
+MySQL | Express | Knex | NGinx <br />
+HTML5 | SEO | CSS3 | CSS-in-JS | Sass, Less, Styled-Components <br />
+Github | GitFlow | Convetional Commits <br />
+Package Manager, Process Manager, Cloud Server <br />
   
   ### Experiências Profissional
   
