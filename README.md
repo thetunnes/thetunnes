@@ -43,7 +43,7 @@
  Concluí e emiti o certificado da Trilha de<img align="center" alt="ReactJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
  <br />
  
- Hoje sigo na trilha de <img align="center" alt="ReactJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+ Hoje sigo na trilha de <img align="center" alt="ReactJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> para adquirir conhecimentos de Back-end e me tornar Dev Full-Stack.
  <br />
  
  ### Skills and Proficiety
