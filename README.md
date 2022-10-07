@@ -47,9 +47,9 @@
  <br />
  
  ### Principais projetos de estudos
- <a href="https://github.com/thetunnes/IgNews">IgNews</a>
- <a href="https://github.com/thetunnes/NLW-eSports">NLW eSports</a>
- <a href="https://github.com/thetunnes/perfomance_apps_react">Perfomando aplicações React</a>
+ <a href="https://github.com/thetunnes/IgNews">IgNews</a><br />
+ <a href="https://github.com/thetunnes/NLW-eSports">NLW eSports</a><br />
+ <a href="https://github.com/thetunnes/perfomance_apps_react">Perfomando aplicações React</a><br />
  
  
  ### Skills and Proficiety
