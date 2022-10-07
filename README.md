@@ -46,6 +46,12 @@
  Hoje sigo na trilha de <img align="center" alt="ReactJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> para adquirir conhecimentos de Back-end e me tornar Dev Full-Stack.
  <br />
  
+ ### Principais projetos de estudos
+ <a href="https://github.com/thetunnes/IgNews">IgNews</a>
+ <a href="https://github.com/thetunnes/NLW-eSports">NLW eSports</a>
+ <a href="https://github.com/thetunnes/perfomance_apps_react">Perfomando aplicações React</a>
+ 
+ 
  ### Skills and Proficiety
 
 JavaScript | TypeScript <br />
