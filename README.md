@@ -1,5 +1,5 @@
 ## Olá mundo! Sejam Bem-vindos ao meu perfil do GitHub.
-### Eu me chamo Cauê, mas podem me chamar de Tunnes :wink:
+### Eu me chamo Cauê, mas pela internet podem me chamar de Tunnes :wink:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tunnesvlr" alt="tunnesvlr" /> </p>
 
  <div>
@@ -49,7 +49,7 @@
  ### Principais projetos de estudos
  <a href="https://github.com/thetunnes/IgNews">IgNews</a><br />
  <a href="https://github.com/thetunnes/NLW-eSports">NLW eSports</a><br />
- <a href="https://github.com/thetunnes/perfomance_apps_react">Perfomando aplicações React</a><br />
+ <a href="https://github.com/thetunnes/toDo-challenge-ignite22">Challenge To do using better tools React</a><br />
  
  
  ### Skills and Proficiety
