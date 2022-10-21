@@ -11,7 +11,7 @@
   ## :book: Trajetória na programação
   
   #### Sou um mero aprendiz na programação
-  Iniciei na programação em <b>2018</b> aprendendo um pouco sobre    
+  Iniciei na programação em <b>2019</b> aprendendo um pouco sobre    
   <div style="display: inline-block">
       <img align="center" alt="HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
