@@ -50,7 +50,7 @@
  <a href="https://github.com/thetunnes/IgNews">IgNews</a> <b>O maior projeto desenvolvido na trilha Ignite 2021</b><br />
  <a href="https://github.com/thetunnes/NLW-eSports">NLW eSports</a> <b>Última Next Level Week concluída por mim, um evento Rocketseat onde em 1 semana desenvolvemos uma aplicação COMPLETA (Front, Back e Mobile)</b><br />
  <a href="https://github.com/thetunnes/toDo-challenge-ignite22">Challenge To do using better tools React</a><br />
- <a href="https://github.com/thetunnes/challenge-coffee-delivery">Challenge Coffee Delivery</a><b></b> Último desafio que concluí no curso Ignite da Rocketseat<br />
+ <a href="https://github.com/thetunnes/challenge-coffee-delivery">Challenge Ignite Shop</a><b></b> Último desafio que concluí no curso Ignite da Rocketseat<br />
  
  ### Skills and Proficiety
 
