@@ -67,7 +67,9 @@ Package Manager, Process Manager, Cloud Server <br />
   ### Experiências Profissional
   
   Desenvolvedor Front-end na Coinsure (out/2021 - set/2022)
-  Desenvolvedor JavaScript na HealthMobile
+ <br />
+  Atualmente auxilio em 2 projetos Freelancers (HealthMobile e Maxcred) e sigo estudando TypeScript com ReactJS
+  
   #
    <div> 
      <a href="https://instagram.com/thetunnes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
