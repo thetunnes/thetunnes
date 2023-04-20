@@ -1,5 +1,5 @@
 ## Olá mundo! Sejam Bem-vindos ao meu perfil do GitHub.
-### Eu me chamo Cauê, mas pela internet podem me chamar de Tunnes :wink:
+### Eu me chamo Cauê, mas pela internet serei encontrado como Tunnes :wink:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tunnesvlr" alt="tunnesvlr" /> </p>
 
  <div>
@@ -10,40 +10,19 @@
   
   ## :book: Trajetória na programação
   
-  #### Sou um mero aprendiz na programação
-  Iniciei na programação em <b>2019</b> aprendendo um pouco sobre    
-  <div style="display: inline-block">
-      <img align="center" alt="HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="JavaScript" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </div>
+  #### Me encontrei na programação desde meus primeiros estudos relacionados a desenvolvimento.
 
-  <br />
-  <br />
+ <p>Estudo desenvolvimento Web a 3 anos, já aprendi muito sobre a base Web <b>(HTML, CSS, JavaScript, Navegadores, Web Storage, API Rest)</b></p>
  
  
- Em <b>2020</b> já tinha adquirido um ótimo conhecimento em HTML, CSS e JavaScript, como também um  conhecimento em frameworks como
-  <div>
-    <img align="center" alt="BootStrap" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="JQuery" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">
-    <img align="center" alt="BootStrap" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg">
-  </div>
-  
  
-   A partir de <b>2021</b> comecei a avançar os estudos aprendendo sobre ReactJS, NodeJS, Banco de Dados
-    <div style="display: inline-block">
-      <img align="center" alt="ReactJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-      <img align="center" alt="NodeJS" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-      <img align="center" alt="MySQL" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  </div>
+   A partir de <b>2021</b> comecei a avançar os estudos para frameworks JS e Back-end aprendendo sobre ReactJS, NodeJS, Banco de Dados, junto do bootcamp Ignite da Rocketseat já evolui muito meus conhecimentos em React, Node e TypeScript.
  
- Em 2021 embarquei no foguete da Rocketseat onde estudo até hoje. <img align="center" alt="Ignite" height="60" width="60" src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/a11afefe824866f24dd3f9e1cc6e6e9530376ad1/%40assets/img/logo.svg"/> (adquiri o Ignite dia 15/09/2021)
- <br />
-  <br />
- Concluí e emiti o certificado da Trilha de<img align="center" alt="ReactJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+
+ Concluí e emiti o certificado da Trilha de <img align="center" alt="ReactJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> 2021
  <br />
  
- Hoje sigo na trilha de <img align="center" alt="ReactJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> para adquirir conhecimentos de Back-end e me tornar Dev Full-Stack.
+ Hoje sigo nas trilhas atualizadas de <img align="center" alt="ReactJS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> e <img align="center" alt="NodeJS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> aprendendo muito sobre as 2 tecnologias, sempre utilizando TypeScript e conhecendo as melhores práticas de projeto e código.
  <br />
  
  ### Principais projetos de estudos
@@ -58,18 +37,23 @@ JavaScript | TypeScript <br />
 ReactJS | (Custom) Hooks | State | Functional Component <br />
 Router Dom | React Query | Hook Form | Toast | Chakra UI | <br />
 Material UI | Date-FNS | Leaflet | Underscore <br />
-NodeJS | AWS | React Native (em aprendizagem) <br />
-MySQL | Express | Knex | NGinx <br />
+NGinx | AWS | React Native (pouca experiência) <br />
+MySQL | Express | Knex | NodeJS <br />
 HTML5 | SEO | CSS3 | CSS-in-JS | Sass, Less, Styled-Components <br />
 Github | GitFlow | Convetional Commits <br />
 Package Manager, Process Manager, Cloud Server <br />
   
   ### Experiências Profissional
   
-  Desenvolvedor Front-end na Coinsure (out/2021 - set/2022)
+ Desenvolvedor Front-end na <a href="https://coinsure.com.br" target="_blank" >Coinsure</a> (out/2021 - set/2022)
  <br />
-  Atualmente auxilio em 2 projetos Freelancers (HealthMobile e Maxcred) e sigo estudando TypeScript com ReactJS
-  
+  Desenvolvedor Full-Stack na HealthMobile, usando NextJS e AdonisJS (nov/2022 - jan/2023)
+ <br />
+  Desenvolvedor Front-end Freelancer na <a href="https://app.maxcred.net" target="_blank" >Maxcred</a> (nov/2022 - moment)
+ <br />
+ 
+  Desenvolvedor Front-end  <a href="https://tibiaproject.com" target="_blank" >Tibia Project</a> (jan/2023 - moment)
+ <br />
   #
    <div> 
      <a href="https://instagram.com/thetunnes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
