@@ -49,9 +49,9 @@ Package Manager, Process Manager, Cloud Server <br />
  <br />
   Desenvolvedor Full-Stack na HealthMobile, usando NextJS e AdonisJS (nov/2022 - jan/2023)
  <br />
+ 
   Desenvolvedor Front-end Freelancer na <a href="https://app.maxcred.net" target="_blank" >Maxcred</a> (nov/2022 - moment)
  <br />
- 
   Desenvolvedor Front-end  <a href="https://tibiaproject.com" target="_blank" >Tibia Project</a> (jan/2023 - moment)
  <br />
   #
