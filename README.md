@@ -29,31 +29,38 @@
  <a href="https://github.com/thetunnes/IgNews">IgNews</a> <b>O maior projeto desenvolvido na trilha Ignite 2021</b><br />
  <a href="https://github.com/thetunnes/NLW-eSports">NLW eSports</a> <b>Última Next Level Week concluída por mim, um evento Rocketseat onde em 1 semana desenvolvemos uma aplicação COMPLETA (Front, Back e Mobile)</b><br />
  <a href="https://github.com/thetunnes/toDo-challenge-ignite22">Challenge To do using better tools React</a><br />
- <a href="https://github.com/thetunnes/challenge-coffee-delivery">Challenge Ignite Shop</a><b></b> Último desafio que concluí no curso Ignite da Rocketseat<br />
+ <a href="https://github.com/thetunnes/challenge-coffee-delivery">Challenge Ignite Shop</a><b></b> Um dos últimos desafio que concluí no curso Ignite da Rocketseat<br />
  
  ### Skills and Proficiety
 
-JavaScript | TypeScript <br />
-ReactJS | (Custom) Hooks | State | Functional Component <br />
-Router Dom | React Query | Hook Form | Toast | Chakra UI | <br />
-Material UI | Date-FNS | Leaflet | Underscore <br />
-NGinx | AWS | React Native (pouca experiência) <br />
-MySQL | Express | Knex | NodeJS <br />
-HTML5 | SEO | CSS3 | CSS-in-JS | Sass, Less, Styled-Components <br />
-Github | GitFlow | Convetional Commits <br />
-Package Manager, Process Manager, Cloud Server <br />
+HTML5 | CSS3 | JavaScript ES7+ | TypeScript | HTTP
+ #
+ReactJS | (Custom) Hooks | State | Functional Component
+ #
+Router Dom | React Query | Hook Form | Toast | Chakra UI |
+ #
+Material UI | Radix UI | Date-FNS | Leaflet | Underscore
+ #
+Storybook | Design System | TailwindCSS | Responsive Web Design
+ #
+NodeJS | Express | Fastify | Knex | MySQL | MongoDB
+ #
+HTML5 | SEO | CSS3 | CSS-in-JS | Sass, Less, Styled-Components
+ #
+Github | GitFlow | Convetional Commits
+ #
+NGinx | AWS | React Native (pouca experiência)
+ #
+Package Manager, Process Manager, Cloud Server
+ #
   
   ### Experiências Profissional
   
- Desenvolvedor Front-end na <a href="https://coinsure.com.br" target="_blank" >Coinsure</a> (out/2021 - set/2022)
- <br />
-  Desenvolvedor Full-Stack na HealthMobile, usando NextJS e AdonisJS (nov/2022 - jan/2023)
- <br />
- 
-  Desenvolvedor Front-end Freelancer na <a href="https://app.maxcred.net" target="_blank" >Maxcred</a> (nov/2022 - moment)
- <br />
-  Desenvolvedor Front-end  <a href="https://tibiaproject.com" target="_blank" >Tibia Project</a> (jan/2023 - moment)
- <br />
+ * Desenvolvedor Front-end na <a href="https://coinsure.com.br" target="_blank" >Coinsure</a> (out/2021 - set/2022)
+ * Desenvolvedor Full-Stack na HealthMobile, usando NextJS e AdonisJS (nov/2022 - jan/2023)
+ * Desenvolvedor Front-end Freelancer na <a href="https://app.maxcred.net" target="_blank" >Maxcred</a> (nov/2022 - moment)
+ * Desenvolvedor Front-end  <a href="https://tibiaproject.com" target="_blank" >Tibia Project</a> (jan/2023 - moment)
+
   #
    <div> 
      <a href="https://instagram.com/thetunnes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
