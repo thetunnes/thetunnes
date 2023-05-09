@@ -16,7 +16,7 @@
  
  
  
-   A partir de <b>2021</b> comecei a avançar os estudos para frameworks JS e Back-end aprendendo sobre ReactJS, NodeJS, Banco de Dados, junto do bootcamp Ignite da Rocketseat já evolui muito meus conhecimentos em React, Node e TypeScript.
+   A partir de <b>2021</b> comecei a avançar os estudos para frameworks JS e Back-end aprendendo sobre ReactJS, NodeJS, Banco de Dados, junto do bootcamp Ignite da Rocketseat, eu evolui muito meus conhecimentos em React, Node e TypeScript, também aprendi como estudar novas features lançadas em frameworks e testes automatizados.
  
 
  Concluí e emiti o certificado da Trilha de <img align="center" alt="ReactJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> 2021
