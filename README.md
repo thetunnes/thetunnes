@@ -56,7 +56,7 @@ Package Manager, Process Manager, Cloud Server
   
   ### Experiências Profissional
   
- * Desenvolvedor Front-end na <a href="https://coinsure.com.br" target="_blank" >Coinsure</a> (out/2021 - set/2022)
+ * Desenvolvedor Front-end na Coinsure, trabalhei nas duas plataformas, Coinsure e <a href="https://zeca.coinsure.com.br" target="_blank" >Zeca</a>(out/2021 - set/2022).
  * Desenvolvedor Full-Stack na HealthMobile, usando NextJS e AdonisJS (nov/2022 - jan/2023)
  * Desenvolvedor Front-end Freelancer na <a href="https://app.maxcred.net" target="_blank" >Maxcred</a> (nov/2022 - moment)
  * Desenvolvedor Front-end  <a href="https://tibiaproject.com" target="_blank" >Tibia Project</a> (jan/2023 - moment)
