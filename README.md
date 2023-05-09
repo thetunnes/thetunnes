@@ -39,13 +39,15 @@ ReactJS | (Custom) Hooks | State | Functional Component
  #
 Router Dom | React Query | Hook Form | Toast | Chakra UI |
  #
-Material UI | Radix UI | Date-FNS | Leaflet | Underscore
+Material UI | Radix UI | DayJS | Leaflet | Underscore
  #
 Storybook | Design System | TailwindCSS | Responsive Web Design
  #
-NodeJS | Express | Fastify | Knex | MySQL | MongoDB
+NodeJS | Express | Fastify | NestJS | AdonisJS
+ # 
+Knex | Prisma | SQLite | MySQL | MongoDB
  #
-HTML5 | SEO | CSS3 | CSS-in-JS | Sass, Less, Styled-Components
+HTML5 | SEO | CSS3 | CSS-in-JS | Sass, Less, BootStrap | TailwindCSS
  #
 Github | GitFlow | Convetional Commits
  #
