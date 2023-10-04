@@ -61,11 +61,13 @@
  
 
   #
-   <div> 
+   <div>
      <a href="https://instagram.com/thetunnes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://github.com/tunnesvlr" target="_blank"><img src="https://img.shields.io/badge/Tunnes_0306-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
      <a href = "mailto:cauepani06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/caue-pani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    </div>
- 
+
+
+  <a href="https://app.bounties4.com/@/cauepani" target="_blank"><img title="bounties4.com/@/cauepani" alt="bounties4.com/@/cauepani" src="https://storage.googleapis.com/profile_avatar/production/6479f2bdbb99ef5190984520/1696457781755_badge.png" width="400" height="400" /></a>
 
